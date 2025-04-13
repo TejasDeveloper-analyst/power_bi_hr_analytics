@@ -71,6 +71,12 @@ This dashboard enables HR professionals and leadership teams to:
 
 ---
 
+## 📬 Connect with Me
+
+**Tejas**  
+[LinkedIn Profile](https://www.linkedin.com/in/tejas-data-analyst)
+---
+
 ## 🖼️ Dashboard
 
 ### Dashboard
