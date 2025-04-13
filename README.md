@@ -79,7 +79,6 @@ This dashboard enables HR professionals and leadership teams to:
 
 ## 🖼️ Dashboard
 
-### Dashboard
 ![Dashboard Overview](https://github.com/TejasDeveloper-analyst/power_bi_hr_analytics/blob/e856d536af6883350b08c2c1dfdee2487517a846/HR_Analtics.png?raw=true)
 
 
