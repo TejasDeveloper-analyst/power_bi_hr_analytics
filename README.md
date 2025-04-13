@@ -71,15 +71,9 @@ This dashboard enables HR professionals and leadership teams to:
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Dashboard
 
-Overview Page
-![Dashboard Overview]([assets/dashboard_overview.png](HR_Analtics.png))
+### Dashboard
+![Dashboard Overview](https://github.com/TejasDeveloper-analyst/power_bi_hr_analytics/blob/e856d536af6883350b08c2c1dfdee2487517a846/HR_Analtics.png?raw=true)
 
----
 
-## 🚀 How to Use
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/hr-analytics-dashboard.git
